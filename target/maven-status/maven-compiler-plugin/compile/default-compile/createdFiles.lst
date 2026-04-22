@@ -1,0 +1,8 @@
+com/taskmanager/model/User.class
+com/taskmanager/model/Task.class
+com/taskmanager/model/Task$Status.class
+com/taskmanager/model/Task$Priority.class
+com/taskmanager/Application.class
+com/taskmanager/model/Todo.class
+com/taskmanager/model/User$Role.class
+com/taskmanager/config/CorsConfig.class
