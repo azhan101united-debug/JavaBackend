@@ -24,6 +24,7 @@ com/taskmanager/service/TaskService.class
 com/taskmanager/repository/UserRepository.class
 com/taskmanager/repository/TaskRepository.class
 com/taskmanager/model/Task.class
+com/taskmanager/controller/HomeController.class
 com/taskmanager/dto/UserWithTaskDTO.class
 com/taskmanager/dto/LoginRequest.class
 com/taskmanager/model/User$Role.class
